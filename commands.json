@@ -22,6 +22,12 @@
     "Flag D7",
     "Flag E7",
     "Clear F7",
-    "Clear G6"
+    "Clear G6",
+    "Flag G4",
+    "Clear H5",
+    "Flag H6",
+    "Clear H7",
+    "Flag G8",
+    "Flag F8"
   ]
 }
