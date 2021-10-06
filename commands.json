@@ -32,6 +32,9 @@
     "Clear D8",
     "Flag F2",
     "Clear F1",
-    "Clear F3"
+    "Clear F3",
+    "Clear B8",
+    "Flag A8",
+    "Flag C8"
   ]
 }
