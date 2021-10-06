@@ -28,6 +28,10 @@
     "Flag H6",
     "Clear H7",
     "Flag G8",
-    "Flag F8"
+    "Flag F8",
+    "Clear D8",
+    "Flag F2",
+    "Clear F1",
+    "Clear F3"
   ]
 }
